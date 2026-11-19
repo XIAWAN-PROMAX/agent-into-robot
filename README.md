@@ -2,7 +2,7 @@
 
 # 把 Agent 接进机器人
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=4C8BF5&center=true&vCenter=true&width=560&lines=%E6%8A%8A%20Agent%20%E6%8E%A5%E8%BF%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%3B%E6%8E%A7%E5%88%B6%E5%99%A8%20%C2%B7%20%E4%BC%A0%E6%84%9F%E5%99%A8%20%C2%B7%20%E9%93%BE%E8%B7%AF%3B%E6%97%A0%E9%9A%90%E5%88%9B%E6%96%B0%EF%BC%88IN%EF%BC%89" alt="把 Agent 接进机器人" />
+<img src="https://aka.doubaocdn.com/s/vOjWb7SNlo" alt="把 Agent 接进机器人" width="100%" />
 
 **控制器 · 传感器 · 链路 —— 接入前要判断的三件事**
 
