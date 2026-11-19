@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本地配置与账号
+.env
+*.local.json
+secrets*
+
+# 运行产物
+*.log
+*.csv
+*.xlsx
