@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://aka.doubaocdn.com/s/kSYqRusDqj" width="96" alt="GitHub" />](https://github.com/XIAWAN-PROMAX/agent-into-robot)
+[<img src="https://aka.doubaocdn.com/s/uOmCic7Cxu" width="110" alt="GitHub" />](https://github.com/XIAWAN-PROMAX/agent-into-robot)
 
 # 把 Agent 接进机器人
 
