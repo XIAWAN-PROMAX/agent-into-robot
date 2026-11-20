@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://aka.doubaocdn.com/s/uOmCic7Cxu" width="110" alt="GitHub" />](https://github.com/XIAWAN-PROMAX/agent-into-robot)
+[<img src="https://aka.doubaocdn.com/s/JMRbEeSbmq" width="110" alt="GitHub" />](https://github.com/XIAWAN-PROMAX/agent-into-robot)
 
 # 把 Agent 接进机器人
 
@@ -109,7 +109,7 @@
 | # | 你的情况 | 结论 |
 |:--:|---|---|
 | 1 | 主控只能下载程序、装不了别的系统 | 加 IoT 模块发字符串，动作做成"成套动作"，别指望逐帧控制 |
-| 2 | 主控能跑 Linux / Node | **板载 Agent**，程序能直接读传感器、控电机，闭环可做 |
+| 2 | 控制器能跑 Linux / Node | **板载 Agent**，工具层直接接 IO，闭环可做 |
 | 3 | 既要公网可达又要低延迟 | **两级**：板载做反射环，云端只发任务、收事件 |
 | 4 | 需求只是单一功能（例如跟随） | 很可能**不需要 Agent**，确定性控制更稳 |
 
